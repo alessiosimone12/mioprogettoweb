@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: grey;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+    background-color: grey;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+section {
+    margin-top: 20px;
+}
+h2{
+    color: white;
+}
+
+p{
+    color: yellow;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+}
